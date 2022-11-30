@@ -499,3 +499,10 @@ h6,
         margin-bottom: -75px;
     }
 }
+
+.img-responsive {
+    height: auto;
+    width: auto;
+    max-height: 80px;
+    max-width: 400px;
+}
